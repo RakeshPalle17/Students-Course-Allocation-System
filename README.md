@@ -1,7 +1,3 @@
-Following are the commands and the instructions to run ANT on your project.
-#### Note: build.xml is present in studentCoursesMgmt/src folder.
-
------------------------------------------------------------------------
 ## Instruction to clean:
 
 ####Command: ant -buildfile studentCoursesMgmt/src/build.xml clean
